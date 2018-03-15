@@ -1,0 +1,9 @@
+tweepy==3.6.0
+chardet==3.0.4
+idna==2.6
+oauthlib==2.0.6
+PySocks==1.6.8
+requests==2.18.4
+requests-oauthlib==0.8.0
+six==1.11.0
+urllib3==1.22
