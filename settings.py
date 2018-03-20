@@ -18,17 +18,3 @@ blacklisted = ["sex","sexy","porn"] # keyword that you want to ignore
 # keywords : hash tag that you want to search  for like , retweet, follow
 keywords = ["webdesign", "development", "business","journalism","interview","php","ajtak","indiatv"]
 messages = ["hi, check out my feed", "I LOVE your tweets!"]
-
-
-screen_name = "yogeshdmca"
-CONSUMER_KEY = "uuwFpzTbqXl5EV4a0uKqw9SoJ"
-CONSUMER_SECRET = "saHqwqPaBZxSkagmjSo9yrhCSjuHix2wSExExayeBVVUtb26Qw"
-ACCESS_TOKEN = "994452642-HDmDYav4JaDChzrwJknkykWh1VKujMgPav7IWvVn"
-ACCESS_SECRET = "1oLz1tCeJbmIOI31EsCQfkIME0jdkch4imuMXn6ZhbKtX"
-
-results_search=20 #Result of keyword search for apply action.
-blacklisted = ["sex","sexy","porn"] # keyword that you want to ignore
-
-# keywords : hash tag that you want to search  for like , retweet, follow
-keywords = ["Panipat"] #["webdesign", "development", "business","journalism","interview","php","ajtak","indiatv"]
-messages = ["hi, check out my feed", "I LOVE your tweets!"]
